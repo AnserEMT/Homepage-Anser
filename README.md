@@ -6,7 +6,6 @@ The aim of the Anser project is to provide an open-source implementation for ele
 
 Also check out **OpenEMT Intiative** at [OpenEMT.org](https://openemt.org/index.php?title=OpenEMT.org), the open source community for electromagnetic tracking systems.
 
-
 ## Anser Installation Options:
 
 | Name | Language/Toolkit | Platform | Type of User Interface|                                                                     
@@ -17,4 +16,15 @@ Also check out **OpenEMT Intiative** at [OpenEMT.org](https://openemt.org/index.
 <small> 
 	GUI: Graphical User Interface  CLI: Command Line Interface
 </small>
+
+## Hardware Setup 
+
+[View Slideshow Here.](readme/plugins/reveal/slide-setup.html)
+
+
+<p align="center">
+	<img  width="100%"src="readme/img/Anser Hardware Setup.svg">
+</p>
+
+
 
