@@ -25,7 +25,7 @@ There are three installation options: Python (CLI), PyQt (GUI) and Matlab
 
 <p align="center">
 	<a class="image" href="https://stephenhinds.github.io/AnserEMT-Homepage/readme/plugins/reveal/slide-setup.html">
-		<img  width="90%"src="docs/img/Anser Hardware Setup.svg">
+		<img  width="90%"src="readme/img/Anser Hardware Setup.svg">
 	</a>
 </p>
 
