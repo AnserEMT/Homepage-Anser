@@ -15,6 +15,7 @@ There are three installation options: Python (CLI), PyQt (GUI) and Matlab
 |[Qt-Anser](https://github.com/StephenHinds/qt-anser)|PyQT|Windows|GUI|
 |[Python-Anser](https://github.com/AlexJaeger/python-anser)|Python|Cross-plaform|CLI|
 |[Matlab-Anser](https://github.com/AlexJaeger/AnserEMT)|Matlab|Windows|CLI|
+
 <small> 
 	GUI: Graphical User Interface  CLI: Command Line Interface
 </small>
@@ -23,8 +24,8 @@ There are three installation options: Python (CLI), PyQt (GUI) and Matlab
 
 
 <p align="center">
-	<a class="image" href="readme/plugins/reveal/slide-setup.html">
-		<img  width="90%"src="readme/img/Anser Hardware Setup.svg">
+	<a class="image" href="https://stephenhinds.github.io/AnserEMT-Homepage/readme/plugins/reveal/slide-setup.html">
+		<img  width="90%"src="docs/img/Anser Hardware Setup.svg">
 	</a>
 </p>
 
