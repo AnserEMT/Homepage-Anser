@@ -2,11 +2,13 @@
 
 The [Anser EMT System](https://anser.io/#/) is an open-source electromagnetic tracking system developed at University College Cork in collaboration with IHU Strasbourg.
 
-The aim of the Anser project is to provide an open-source implementation for electromagnetic tracking with particular application to image-guided interventions. The system is compatible with commercially available EMT sensors as well as the Open Network Interface for Image-Guided Therapy (OpenIGTLink) for easy communication with visualisation toolkits such as CustusX, MITK and 3D Slicer.
+The aim of the Anser project is to provide an open-source implementation for electromagnetic tracking with particular application to image-guided interventions. The system is compatible with commercially available EMT sensors as well as the Open Network Interface for Image-Guided Therapy [(OpenIGTLink)](http://openigtlink.org) for easy communication with visualisation toolkits such as [CustusX](https://www.custusx.org), [MITK](http://mitk.org/wiki/MITK) and [3D Slicer](https://www.slicer.org).
 
 Also check out **OpenEMT Intiative** at [OpenEMT.org](https://openemt.org/index.php?title=OpenEMT.org), the open source community for electromagnetic tracking systems.
 
-## Anser Installation Options:
+## Software Platform:
+
+There are three installation options: Python (CLI), PyQt (GUI) and Matlab
 
 | Name | Language/Toolkit | Platform | Type of User Interface|                                                                     
 |-------|------------------|----------|-----------------------|
@@ -19,11 +21,11 @@ Also check out **OpenEMT Intiative** at [OpenEMT.org](https://openemt.org/index.
 
 ## Hardware Setup 
 
-[View Slideshow Here.](readme/plugins/reveal/slide-setup.html)
-
 
 <p align="center">
-	<img  width="100%"src="readme/img/Anser Hardware Setup.svg">
+	<a class="image" href="readme/plugins/reveal/slide-setup.html">
+		<img  width="90%"src="readme/img/Anser Hardware Setup.svg">
+	</a>
 </p>
 
 
