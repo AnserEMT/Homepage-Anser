@@ -25,7 +25,7 @@ There are three installation options: Python (CLI), PyQt (GUI) and Matlab
 ##### Download the [quickstart guide](readme/manual/Anser_EMT_Hardware_Manual.pdf) for the Anser EMT.
 
 <p align="center">
-	<a class="image" href="https://stephenhinds.github.io/AnserEMT-Homepage/readme/plugins/reveal/slide-setup.html">
+	<a class="image" href="https://anseremt.github.io/Homepage-Anser/readme/plugins/reveal/slide-setup.html">
 		<img  width="90%"src="readme/img/Anser Hardware Setup.svg">
 	</a>
 </p>
